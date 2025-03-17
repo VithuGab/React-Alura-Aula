@@ -1,0 +1,22 @@
+{
+  "name": "aplicacoes-react-server",
+  "version": "1.0.0",
+  "description": "Servidor para a aplicação do Alura books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VithuGab/React-Alura-Aula.git"
+  },
+  "author": "VithuGabDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VithuGab/React-Alura-Aula/issues"
+  },
+  "homepage": "https://github.com/VithuGab/React-Alura-Aula#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
